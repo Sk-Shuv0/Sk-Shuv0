@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Sk-Shuv0.png" width="150" />
+  <img src="Sk Cover pic.jpeg" />
 </p>
 
 <h1 align="center">Hi 👋, I'm S.k. Shuvo</h1>
