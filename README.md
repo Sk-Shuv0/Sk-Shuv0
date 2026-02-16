@@ -45,7 +45,12 @@ Team-based task & project management app with role-based login and approval syst
 
 ## 📊 GitHub Stats
 
-![Shuvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sk-Shuv0&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sk-Shuv0&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sk-Shuv0&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sk-Shuv0&layout=compact&theme=tokyonight)
+
 
 ---
 
