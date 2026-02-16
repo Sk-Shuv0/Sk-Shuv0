@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Sk-Shuv0.png" width="180" style="border-radius:50%" />
+  <img src="https://github.com/Sk Cover pic.jpeg" width="180" style="border-radius:50%" />
 </p>
 
 # 👋 Hi, I'm S.k. Shuvo
