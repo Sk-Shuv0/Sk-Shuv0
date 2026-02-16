@@ -1,6 +1,6 @@
 <!-- 🔥 BANNER -->
 <p align="center">
-  <img src="Sk Cover pic.jpeg" />
+  <img src="Sk Cover pic.jpeg" width="100%" />
 </p>
 
 <!-- 👋 INTRO -->
@@ -8,9 +8,15 @@
   Hi 👋, I'm <a href="https://facebook.com/Sk.Shuv0">S.k. Shuvo</a>
 </h1>
 
-<h3 align="center">
-  Flutter Developer | Firebase Enthusiast | CSE Student
-</h3>
+<!-- 🧠 Animated Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Flutter+Developer;Firebase+Enthusiast;CSE+Student;Building+Scalable+Apps;Exploring+OS+Development" />
+</p>
+
+<!-- 👀 Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sk-Shuv0&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 <p align="center">
   🚀 Building scalable mobile apps <br>
@@ -62,6 +68,14 @@ Team-based project management system with role-based login & approvals.
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sk-Shuv0/Sk-Shuv0/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 # 🌎 Connect With Me
 
 <h1 align="center">
@@ -71,6 +85,6 @@ Team-based project management system with role-based login & approvals.
 
 ---
 
-<p align="center">
+<h2 align="center">
   💡 <i>Building Digital Solutions with Clean Code & Smart Systems</i> 🚀
-</p>
+</h2>
