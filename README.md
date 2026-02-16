@@ -1,16 +1,60 @@
-## Hi there 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=S.k.%20Shuvo&fontSize=40)
 
-<!--
-**Sk-Shuv0/Sk-Shuv0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm S.k. Shuvo
 
-Here are some ideas to get you started:
+### 🚀 Flutter Developer | Firebase Enthusiast | CSE Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate software developer focused on building scalable mobile applications and real-world digital systems.  
+I love solving problems, building production-ready apps, and exploring low-level system architecture.
+
+---
+
+## 💼 Professional Summary
+
+- 📱 Android App Developer (Flutter)
+- 🔥 Firebase Authentication & Firestore Integration
+- 🧾 Billing & Management System Developer
+- ⚙ Exploring Operating System Development (C & Assembly)
+- 🎯 Focused on Clean Architecture & Scalable Systems
+
+---
+
+## 🛠 Tech Stack
+
+- Flutter & Dart
+- Firebase (Auth, Firestore, Storage)
+- C / C++
+- Assembly (Learning)
+- Git & GitHub
+- REST API Integration
+
+---
+
+## 🚀 Featured Projects
+
+### 📱 Market Shop Rent & Utility Management System
+Role-based mobile app for shop rent, utility billing, payment tracking, PDF receipt generation & admin control.
+
+### 🧾 Dart Runner (In Development)
+Flutter-based Dart code execution app (Frontend ready, backend integration planned).
+
+### 📋 Project Plan App (Planned System)
+Team-based task & project management app with role-based login and approval system.
+
+---
+
+## 📊 GitHub Stats
+
+![Shuvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sk-Shuv0&show_icons=true)
+
+---
+
+## 🌍 Connect With Me
+
+- 📧 Email: sk.pbna@gmail.com
+- 🌐 Facebook: https://facebook.com/Sk.Shuv0
+
+---
+
+### 💡 Motto
+> Building Digital Solutions with Clean Code & Smart Systems 🚀
