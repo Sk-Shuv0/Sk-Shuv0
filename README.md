@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=S.k.%20Shuvo&fontSize=40)
+<p align="center">
+  <img src="https://github.com/Sk-Shuv0.png" width="180" style="border-radius:50%" />
+</p>
 
 # 👋 Hi, I'm S.k. Shuvo
 
