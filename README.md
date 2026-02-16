@@ -4,15 +4,10 @@
 
 <h1 align="center">Hi 👋, I'm S.k. Shuvo</h1>
 
-<h3 align="center">Flutter Developer | Firebase Enthusiast | CSE Student</h3>
-
-
-### 🚀 Flutter Developer | Firebase Enthusiast | CSE Student
+<h3 align="center">Flutter Developer | Firebase Enthusiast | CSE Student
 
 I am a passionate software developer focused on building scalable mobile applications and real-world digital systems.  
-I love solving problems, building production-ready apps, and exploring low-level system architecture.
-
----
+I love solving problems, building production-ready apps, and exploring low-level system architecture.</h3>
 
 ## 💼 Professional Summary
 
