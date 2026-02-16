@@ -1,11 +1,11 @@
 <!-- 🔥 BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sk-Shuv0/Sk-Shuv0/main/banner.jpg" />
+  <img src="Sk Cover pic.jpeg" />
 </p>
 
 <!-- 👋 INTRO -->
 <h1 align="center">
-  Hi 👋, I'm <a href="https://facebook.com/Sk.Shv0">S.k. Shuvo</a>
+  Hi 👋, I'm <a href="https://facebook.com/Sk.Shuv0">S.k. Shuvo</a>
 </h1>
 
 <h3 align="center">
