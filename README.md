@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="https://github.com/Sk Cover pic.jpeg" width="180" style="border-radius:50%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=180&section=header"/>
 </p>
+
+<p align="center">
+  <img src="https://github.com/Sk-Shuv0.png" width="160" style="border-radius:50%" />
+</p>
+
 
 # 👋 Hi, I'm S.k. Shuvo
 
