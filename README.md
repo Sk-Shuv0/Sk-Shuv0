@@ -49,7 +49,7 @@ Team-based task & project management app with role-based login and approval syst
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sk-Shuv0&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sk-Shuv0&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sk-Shuv0&layout=compact&theme=tokyonight&hide_border=true)
 
 
 ---
