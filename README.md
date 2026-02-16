@@ -1,13 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=180&section=header"/>
+  <img src="https://github.com/Sk-Shuv0.png" width="150" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/Sk-Shuv0.png" width="160" style="border-radius:50%" />
-</p>
+<h1 align="center">Hi 👋, I'm S.k. Shuvo</h1>
 
+<h3 align="center">Flutter Developer | Firebase Enthusiast | CSE Student</h3>
 
-# 👋 Hi, I'm S.k. Shuvo
 
 ### 🚀 Flutter Developer | Firebase Enthusiast | CSE Student
 
