@@ -64,10 +64,10 @@ Team-based project management system with role-based login & approvals.
 
 # 🌎 Connect With Me
 
-<p align="center">
+<h1 align="center">
   <a href="mailto:sk.pbna@gmail.com">📧 Email</a> •
   <a href="https://facebook.com/Sk.Shuv0">🌐 Facebook</a>
-</p>
+</h1>
 
 ---
 
